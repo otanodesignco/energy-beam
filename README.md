@@ -1,2 +1,2 @@
-# UV Transforms and Utility Methods
-uv transformations and glsl utility methods
+# VFX Effects
+Demo of a vfx effect ported loosely from an article, attribution will be added.
